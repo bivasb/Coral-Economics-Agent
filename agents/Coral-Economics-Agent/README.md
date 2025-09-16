@@ -380,7 +380,7 @@ prompt = ChatPromptTemplate.from_messages([
 ### Required Environment Variables:
 ```bash
 # Core Coral Protocol settings
-CORAL_SSE_URL=http://localhost:5555/sse
+CORAL_SSE_URL=http://localhost:5555/devmode/exampleApplication/privkey/session1/sse
 CORAL_AGENT_ID={your_agent_id}
 
 # LLM Configuration  
