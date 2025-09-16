@@ -158,5 +158,52 @@ tmp/
 *.sqlite3
 *.db
 
+# Large files
+*.dump
+*.sql
+*.csv
+*.json.gz
+*.tar.xz
+*.bz2
+*.7z
+*.dmg
+*.iso
+*.img
+
+# Machine learning / Data files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.model
+*.weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+dataset/
+datasets/
+data/
+models/
+checkpoints/
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.bmp
+*.tiff
+*.webp
+*.ico
+
 # Application specific
 report.txt
